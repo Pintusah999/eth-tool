@@ -1,0 +1,6 @@
+{
+  "name": "TechSuite v2.4",
+  "description": "Interactive system diagnostics, hardware testing, debugging, and flash programming application with a modern minimalist monochrome aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
